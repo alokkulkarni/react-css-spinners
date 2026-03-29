@@ -99,7 +99,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-postcss": "^2.0.3",
     "rollup-plugin-terser": "^5.2.0",
-    "serve": "^11.3.0",
+    "serve": "^14.2.6",
     "typescript": "^3.7.5"
   },
   "peerDependencies": {
